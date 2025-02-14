@@ -22,5 +22,10 @@ print("3 juan")
 print("4 Felipe")
 print("Nuevo Joaquin")
 
+<<<<<<< HEAD
 
 print("4 Joaquin")
+=======
+print("5 Felipe")
+print("A ver si joaquin termina")
+>>>>>>> 4ec3c5f28fe311e6ca89d2c1c1c167d46c1db4e5
