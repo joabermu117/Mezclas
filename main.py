@@ -18,3 +18,6 @@ print("3 Felipe")
 print("2 Joaquin")
 
 print("3 juan")
+
+print("4 Felipe")
+print("Nuevo Joaquin")
